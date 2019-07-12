@@ -17,7 +17,7 @@ There is a campaign with 10 streamers. The competition is very intense. Scores o
 - Any kind of implementation is acceptable.
 - Be aware of animation trembling and consistency. We care about smooth animation.
 - It will be impressive if there is any additional animation or visual effect presented.
-- Make sure your app runs in the last 2 versions of Chrome, Firefox, and macOS Safari.
+- Make sure your app runs in the last 2 versions of Chrome.
 - Keep your source code clean, organized and modularized, we will review them.
 - We will also review your component and layout design, and keep speculating your intention from your code.
 - Testing are bonus and are not required.
