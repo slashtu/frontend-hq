@@ -22,4 +22,4 @@ There is a campaign with 10 streamers. The competition is very intense. Scores o
 - We will also review your component and layout design, and keep speculating your intention from your code.
 - Testing are bonus and are not required.
 - Upload your app to (Or just code entirely on) [CodeSandbox](https://codesandbox.io/) when done, make sure your app behaves normally in the preview too. Alternatively if your app for some reason cannot run on it, you can push your app to [GitHub](https://github.com/), [GitLab](https://gitlab.com/), or [Bitbucket](https://bitbucket.org/). Please make sure to set up permission setting to let us view your project.
-- Send us back an [email](mailto:dev17@17.media) along with the link of your application via reply. Once you've submitted the code, please don't update it afterwards. If for some reason the app breaks because of it, we won't be able to identify the cause.
+- Send us back an [email](mailto:careers.tech@17.media) along with the link of your application via reply. Once you've submitted the code, please don't update it afterwards. If for some reason the app breaks because of it, we won't be able to identify the cause.
