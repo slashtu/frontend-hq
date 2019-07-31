@@ -12,8 +12,8 @@ There is a campaign with 10 streamers. The competition is very intense. Scores o
 - Use [React](https://reactjs.org) for rendering and [styled-components](https://www.styled-components.com) for style management. Others libraries are forbidden. Additional, building with functional component and hooks API are encouraged, so as TypeScript.
 - Starter-kit like [create-react-app](https://github.com/facebook/create-react-app) is allowed and actually encouraged, we don't want to waste any of your precious time setting up environment.
 - Make sure following check points:
-- Score update animation (transition of value between original score and final score)
-- order rearrange animation (transition of position between original position and final position).
+  - Score update animation (transition of value between original score and final score)
+  - Order rearrange animation (transition of position between original position and final position).
 - Any kind of implementation is acceptable.
 - Be aware of animation trembling and consistency. We care about smooth animation.
 - It will be impressive if there is any additional animation or visual effect presented.
