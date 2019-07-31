@@ -9,7 +9,7 @@ There is a campaign with 10 streamers. The competition is very intense. Scores o
 
 ## Requirement:
 
-- Use [React](https://reactjs.org) for rendering and [styled-components](https://www.styled-components.com) for style management. Others libraries are forbidden. Additional, building with functional component and hooks API are encouraged.
+- Use [React](https://reactjs.org) for rendering and [styled-components](https://www.styled-components.com) for style management. Others libraries are forbidden. Additional, building with functional component and hooks API are encouraged, so as TypeScript.
 - Starter-kit like [create-react-app](https://github.com/facebook/create-react-app) is allowed and actually encouraged, we don't want to waste any of your precious time setting up environment.
 - Make sure following check points:
 - Score update animation (transition of value between original score and final score)
