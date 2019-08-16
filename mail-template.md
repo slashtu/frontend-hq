@@ -5,7 +5,8 @@
 （我們偏好在 codesandbox 上進行 https://codesandbox.io/）
 
 請於兩天內完成測驗。
-完成後將連結寄到 [jt@17.media](mailto:jt@17.media) ，我們將進一步評估結果。謝謝。
+完成後將連結寄到 [jt@17.media](mailto:jt@17.media) *標題開頭請加上 `[frontend pretest]`* 。
+我們將進一步評估結果。謝謝。
 
 JT
 Software Manager, Frontend
