@@ -2,7 +2,7 @@
 
 ## 関連リンク
 
-- デモ: http://event.17.media/pretest
+- デモ: [https://sta-vmo.17.media/pretest](https://sta-vmo.17.media/pretest)
 - データ: https://webcdn.17app.co/campaign/pretest/data.json
 
 ## プロジェクト概要
