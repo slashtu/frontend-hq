@@ -1,6 +1,6 @@
 ## Links
 
-- Demo: http://event.17.media/pretest
+- Demo: [https://sta-vmo.17.media/pretest](https://sta-vmo.17.media/pretest)
 - Data: https://webcdn.17app.co/campaign/pretest/data.json
 
 ## Description:
