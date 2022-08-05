@@ -1,4 +1,4 @@
-※このページは[pretest.md](https://github.com/17media/frontend-hq/blob/master/pretest.md)の内容を日本語に翻訳した文章です。
+※このページは[pretest.md](https://github.com/slashtu/frontend-hq/blob/master/pretest.md)の内容を日本語に翻訳した文章です。
 
 ## 関連リンク
 
